@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --fnt-hnd: 'ADLaM Display', cursive;
+}
+.head-line{
+    font-family: var(--fnt-hnd);
+}
+.over-flow-check{
+    overflow: hidden;
+    overflow-x: hidden;
+}
